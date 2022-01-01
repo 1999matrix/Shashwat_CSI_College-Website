@@ -136,7 +136,7 @@ p{
     text-align: center;
     /* padding-top: 50px; */
 }
-.c-col{
+/* .c-col{
     flex-basis: 80%;
     border-radius: 10px;
     margin-bottom: 30px;
@@ -148,9 +148,9 @@ p{
 .c-col img{
     /* width: 100%; */
     /* margin-left: 100px; */
-width: 100%;
-    display:block;
-}
+/* width: 100%;
+    display:block; */
+/* } */
 
 
 /* .layer:hover{
@@ -164,13 +164,13 @@ width: 100%;
     padding-top: 100px;
 }
 
-.f-col{
+.c-col{
     flex-basis: 31%;
     border-radius: 10px;
     margin-bottom: 5%;
     text-align: left;
 }
-.f-col img{
+.c-col img{
     width: 100%;
     border-radius: 10px;
 }
